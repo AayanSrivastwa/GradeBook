@@ -1,4 +1,3 @@
-# GradeBook Analyzer Program
 # Name: Aayan Srivastwa
 # Date: 5 Nov 2025
 # This program helps to enter student marks and analyze their grades.
@@ -93,3 +92,4 @@ for name, mark in marks.items():
     print(f"{name}\t{mark}\t{grades[name]}")
 print("------------------------")
 print("Analysis Completed Successfully!")
+
