@@ -1,7 +1,10 @@
 Name: Aayan Srivastwa
+
 Course: Programming for Problem Solving using Python
 Date: 5 November 2025
+
 Assignment No.: 2
+
 Topic: GradeBook Analyzer
 
 🔹 Aim
